@@ -47,6 +47,9 @@ It enables stakeholders to make data-driven decisions for playlist curation, con
 **Key Insight:**
 Certain months show peak popularity spikes, indicating seasonality in music consumption trends.
 
+![Spotify_Dashboard-images-1](https://github.com/user-attachments/assets/8d8d9c5b-c745-4565-b3ed-0df29f944b20)
+
+
 ---
 
 ### 2️⃣ Artist Analytics
@@ -60,6 +63,8 @@ Certain months show peak popularity spikes, indicating seasonality in music cons
 **Key Insight:**
 Top-tier artists dominate both total song count and chart position consistency, indicating strong catalog depth and brand influence.
 
+![Spotify_Dashboard-images-2](https://github.com/user-attachments/assets/4a68fce3-538d-4177-806d-186bfca2d5e0)
+
 ---
 
 ### 3️⃣ Song-Level Insights
@@ -72,6 +77,8 @@ Top-tier artists dominate both total song count and chart position consistency, 
 
 **Key Insight:**
 Singles show strong short-term popularity bursts, while albums contribute sustained performance across multiple tracks.
+
+![Spotify_Dashboard-images-3](https://github.com/user-attachments/assets/84205bd1-65d2-41c6-85e5-4d79bb6edeea)
 
 ---
 
@@ -144,12 +151,3 @@ Suggestions and enhancements are welcome.
 If you found this project valuable, consider giving it a ⭐ on GitHub.
 
 ---
-
-If you want, I can now:
-
-* 🔥 Convert this into a **high-impact LinkedIn post (STAR format)**
-* 📄 Create a **resume-ready project description (ATS optimized)**
-* 🧠 Add advanced DAX explanation section
-* 📊 Make it more technical for Data Analyst job applications
-
-Let me know what you want next.
